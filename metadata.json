@@ -1,0 +1,5 @@
+{
+  "name": "NeonVoice Studio",
+  "description": "A premium, futuristic Text-to-Speech application powered by Google Gemini 2.5. Generate lifelike speech in Hindi, Marathi, and English with advanced controls and a neon-glassmorphism UI.",
+  "requestFramePermissions": []
+}
